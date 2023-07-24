@@ -1,5 +1,8 @@
 body{
-    background: rgb(174, 249, 174);
+    background: url("../Img/1095232.jpg");
+    background-size: cover;
+    background-position: center center;
+    /* background-repeat: no-repeat; */
 }
 
 body > center > h1{
