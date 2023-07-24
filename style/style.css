@@ -28,8 +28,13 @@ main {
 }
 
 main > div {
+    display: grid;
+    place-items: center;
     height: 100px;
     width: 200px;
+    color: azure;
+    font-size: large;
+    font-weight: bold;
     background-color: blueviolet;
     box-shadow: 10px 10px 0px 0px rgba(132, 0, 255, 0.3);
 }
